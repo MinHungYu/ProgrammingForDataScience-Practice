@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543995536909.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1347825109",
+    "id" : "7DEB1322",
+    "lastKnownWriteTime" : 1540972427,
+    "last_content_update" : 1540972427,
+    "path" : "~/GitHub/minhungyu/2018-10-24.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
